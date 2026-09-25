@@ -1,0 +1,7 @@
+# Atividade 7 - dados brutos e arrays grandes do MIT-BIH (reproduziveis via notebook, nao versionados)
+atividade7/dataset/raw/
+atividade7/dataset/processed/*.npy
+
+# Material de referencia do template SBC (nao faz parte da entrega)
+atividade7/modelosparapublicaodeartigos/
+atividade7/modelosparapublicaodeartigos.zip
