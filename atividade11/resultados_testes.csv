@@ -1,0 +1,6 @@
+Mensagem,Texto após pré-processamento,Classe real,Classe prevista,Acertou?
+"mano o show ontem foi top demais, curti mto 😍🔥","mano o show ontem foi top demais, curti muito",Positivo,Positivo,Sim
+vc viu q a entrega atrasou dnv? q ódio 😡,você viu que a entrega atrasou de novo? que ódio,Negativo,Negativo,Sim
+alguém sabe se amanhã a aula é na sala 404 ou na 405?,alguém sabe se amanhã a aula é na sala 404 ou na 405?,Neutro,Positivo,Não
+"meu fone quebrou de novo, n aguento mais isso 😤","meu fone quebrou de novo, não aguento mais isso",Negativo,Negativo,Sim
+finalmente sextou!! bora curtir o fds com a galera 🎉,finalmente sextou!! bora curtir o fim de semana com a galera,Positivo,Neutro,Não

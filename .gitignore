@@ -5,3 +5,20 @@ atividade7/dataset/processed/*.npy
 # Material de referencia do template SBC (nao faz parte da entrega)
 atividade7/modelosparapublicaodeartigos/
 atividade7/modelosparapublicaodeartigos.zip
+
+# Material da disciplina (PDFs em conteudo/ nao versionados)
+conteudo/**/*.pdf
+conteudo/*.pdf
+
+# Projeto final (N2) - dados brutos do MIT-BIH e arrays processados (reproduziveis via notebook 01)
+projeto/dataset/raw/
+projeto/dataset/processed/*.npz
+projeto/_template/
+projeto/modelosparapublicaodeartigos.zip
+projeto/Rubrica_IA_Parte3_N2_20262_vFinal.docx
+__pycache__/
+projeto/entrega_projeto_IA_parte3_N2.zip
+
+# Atividade 11 - modelo BERTimbau fine-tuned (435 MB, acima do limite do GitHub; regerado pelo notebook)
+atividade11/sentiment_model/
+atividade11/results/
